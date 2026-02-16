@@ -8,7 +8,7 @@
 
 ---
 
-# 👩‍💻 About Me
+# About Me
 
 ✨ Frontend Developer, UI/UX Designer & QA Engineer  
 ⚡ Passionate about building modern, accessible & performance-focused web apps  
@@ -20,7 +20,7 @@
 
 ---
 
-# 🚀 Tech Stack
+# Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,wordpress,git,github,vscode" />
@@ -28,7 +28,7 @@
 
 ---
 
-# 🎨 Design & UI Tools
+# Design & UI Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai" />
@@ -36,7 +36,7 @@
 
 ---
 
-# 🧪 QA & Development Workflow
+#  QA & Development Workflow
 
 ✔ Manual Testing  
 ✔ Test Case Design  
@@ -48,7 +48,7 @@
 
 ---
 
-# 🌟 Featured Skills
+#  Featured Skills
 
 💎 Design Systems & Component Libraries (shadcn/ui, MUI, Chakra UI)  
 💎 Framer Motion Animations  
@@ -58,7 +58,7 @@
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AmayaPerera&show_icons=true&theme=radical&hide_border=true" />
@@ -71,7 +71,7 @@
 
 ---
 
-# 🐍 Contribution Snake Animation
+#  Contribution Snake Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AmayaPerera/AmayaPerera/main/github-contribution-grid-snake.svg" />
@@ -80,7 +80,7 @@
 
 ---
 
-# 🌎 Connect With Me
+#  Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amayaperera">
