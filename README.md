@@ -77,7 +77,7 @@
 # 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AmayaPerera/AmayaPerera/main/dist/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/AmayaPerera/AmayaPerera/main/github-contribution-grid-snake.svg" />
 </p>
 
 
