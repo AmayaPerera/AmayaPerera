@@ -58,26 +58,6 @@
 
 ---
 
-#  GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=AmayaPerera&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" 
-    width="60%"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmayaPerera&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" 
-    width="50%"
-  />
-</p>
-
-
-
-
----
 
 #  Contribution Snake Animation
 
@@ -95,7 +75,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://www.behance.net/amayaperera2">
-    <img src="https://skillicons.dev/icons?i=figma" />
+    <img src="https://skillicons.dev/icons?i=behance" />
   </a>
 </p>
 
