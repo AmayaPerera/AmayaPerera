@@ -1,16 +1,96 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=F78DA7&center=true&vCenter=true&width=750&lines=Hi+I'm+Amaya+Perera;Frontend+Developer;UI%2FUX+Designer;QA+Engineer;Building+Modern+%26+Scalable+Web+Experiences" />
+</p>
 
-<!--
-**AmayaPerera/AmayaPerera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F78DA7&height=160&section=header"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👩‍💻 About Me
+
+✨ Frontend Developer, UI/UX Designer & QA Engineer  
+⚡ Passionate about building modern, accessible & performance-focused web apps  
+🎨 Focused on design systems, reusable components & smooth animations  
+🧪 Strong in Manual Testing, UI Validation & Agile workflows  
+🎓 BSc (Hons) Computer Science – University of Wolverhampton  
+📚 Currently following Software Quality Assurance Professional Program (SLIIT)  
+📍 Sri Lanka  
+
+---
+
+# 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,wordpress,git,github,vscode" />
+</p>
+
+---
+
+# 🎨 Design & UI Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai" />
+</p>
+
+---
+
+# 🧪 QA & Development Workflow
+
+✔ Manual Testing  
+✔ Test Case Design  
+✔ Bug Tracking (JIRA)  
+✔ Functional & Regression Testing  
+✔ UI/UX Testing  
+✔ Cross-Browser Testing  
+✔ Agile / Scrum Collaboration  
+
+---
+
+# 🌟 Featured Skills
+
+💎 Design Systems & Component Libraries (shadcn/ui, MUI, Chakra UI)  
+💎 Framer Motion Animations  
+💎 Responsive & Accessibility-Focused UI  
+💎 Performance Optimization  
+💎 SEO Best Practices  
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmayaPerera&show_icons=true&theme=radical&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmayaPerera&theme=radical&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmayaPerera&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AmayaPerera/AmayaPerera/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 🌎 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/amayaperera">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.behance.net/amayaperera2">
+    <img src="https://skillicons.dev/icons?i=figma" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F78DA7&height=120&section=footer"/>
+</p>
