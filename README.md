@@ -61,10 +61,10 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmayaPerera&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true" />
-</p>
-
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmayaPerera&show_icons=true&theme=radical&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmayaPerera&theme=radical&hide_border=true" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmayaPerera&layout=compact&theme=radical&hide_border=true" />
 </p>
 
